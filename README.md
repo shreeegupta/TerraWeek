@@ -7,4 +7,6 @@ https://shreya-gupta.hashnode.dev/day-2-terraform-configuration-language
 
 https://shreya-gupta.hashnode.dev/day-3-managing-resources
 
+https://shreya-gupta.hashnode.dev/day-4-terraform-state-management
+
 
