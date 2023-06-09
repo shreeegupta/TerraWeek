@@ -7,3 +7,4 @@
 *.tfplan
 *.terraform.lock.hcl
 
+*.tfvars
