@@ -9,4 +9,4 @@ https://shreya-gupta.hashnode.dev/day-3-managing-resources
 
 https://shreya-gupta.hashnode.dev/day-4-terraform-state-management
 
-
+https://shreya-gupta.hashnode.dev/day-5-terraform-modules
