@@ -12,3 +12,5 @@ https://shreya-gupta.hashnode.dev/day-4-terraform-state-management
 https://shreya-gupta.hashnode.dev/day-5-terraform-modules
 
 https://shreya-gupta.hashnode.dev/day-6-terraform-providers
+
+https://shreya-gupta.hashnode.dev/day-7-advanced-terraform-topics
